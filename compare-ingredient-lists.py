@@ -1,7 +1,4 @@
-
 # coding: utf-8
-
-# In[9]:
 
 # This product compares the ingredient lists for two different products and tells the user how similar
 # different the products are. This allows the user to decide if they want to spend their money on both or just one, 
